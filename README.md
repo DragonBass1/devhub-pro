@@ -1,8 +1,28 @@
+# FIAP-1TCMT-Fase5
+Entrega do Tech Challenge da Fase 5 da turma 1TCMT da Postech. Aqui temos o PDF e o link para o vídeo do Youtube
+
+Link do Youtube (em processamento no momento do envio inicial): [Link do Video](https://youtu.be/<TODO>)
+
+Link do PDF com a explicação: [Exercício Fase 5.pdf](https://github.com/DragonBass1/devhub-pro/blob/main/POSTECH%201TCMT-Grupo%2031%20-%20Etapa%205.pdf)
+
+Integrantes do Grupo 31
+
+Renato Borba dos Santos
+rborba.santos@gmail.com
+
+Guilherme Luiz Argentino Silva
+Guilherme.argentino@gmail.com
+
+Gustavo Perri Galegale
+gustavo.galegale@fiap.com.br
+
+---
+
 # Welcome to your Lovable project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**URL**: https://lovable.dev/projects/ab1b3aa0-0e67-4cde-a3a1-a150d136ea75
 
 ## How can I edit this code?
 
@@ -10,7 +30,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Simply visit the [Lovable Project](https://lovable.dev/projects/ab1b3aa0-0e67-4cde-a3a1-a150d136ea75) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -62,7 +82,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Simply open [Lovable](https://lovable.dev/projects/ab1b3aa0-0e67-4cde-a3a1-a150d136ea75) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
