@@ -23,6 +23,7 @@ gustavo.galegale@fiap.com.br
 ## Project info
 
 **URL**: https://lovable.dev/projects/ab1b3aa0-0e67-4cde-a3a1-a150d136ea75
+**Published URL**: https://xrsmart-digital.lovable.app
 
 ## How can I edit this code?
 
